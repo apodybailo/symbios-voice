@@ -1,0 +1,1 @@
+web: python3 telegram_gate_voice.py
